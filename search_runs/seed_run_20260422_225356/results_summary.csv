@@ -1,0 +1,225 @@
+filename,source_name,scale_x,scale_y,rotation_deg,math_seconds,math_text,superslicer_estimate,abs_error,status,reason,stdout_log,stderr_log
+coarse_20mm Calibration Cube_sx0p9920_sy0p9920_rot0p0.stl,20mm Calibration Cube.stl,0.992,0.992,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9920_sy0p9920_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9920_sy0p9920_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx0p9950_sy0p9950_rot0p0.stl,20mm Calibration Cube.stl,0.995,0.995,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9950_sy0p9950_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9950_sy0p9950_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx0p9980_sy0p9980_rot0p0.stl,20mm Calibration Cube.stl,0.998,0.998,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9980_sy0p9980_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx0p9980_sy0p9980_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0000_sy1p0000_rot0p0.stl,20mm Calibration Cube.stl,1.0,1.0,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0000_sy1p0000_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0000_sy1p0000_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0020_sy1p0020_rot0p0.stl,20mm Calibration Cube.stl,1.002,1.002,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0020_sy1p0020_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0020_sy1p0020_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0040_sy1p0040_rot0p0.stl,20mm Calibration Cube.stl,1.004,1.004,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0040_sy1p0040_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0040_sy1p0040_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0060_sy1p0060_rot0p0.stl,20mm Calibration Cube.stl,1.006,1.006,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0060_sy1p0060_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0060_sy1p0060_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0080_sy1p0080_rot0p0.stl,20mm Calibration Cube.stl,1.008,1.008,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0080_sy1p0080_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0080_sy1p0080_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0100_sy1p0100_rot0p0.stl,20mm Calibration Cube.stl,1.01,1.01,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0100_sy1p0100_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0100_sy1p0100_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0120_sy1p0120_rot0p0.stl,20mm Calibration Cube.stl,1.012,1.012,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0120_sy1p0120_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0120_sy1p0120_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0140_sy1p0140_rot0p0.stl,20mm Calibration Cube.stl,1.014,1.014,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0140_sy1p0140_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0140_sy1p0140_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0160_sy1p0160_rot0p0.stl,20mm Calibration Cube.stl,1.016,1.016,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0160_sy1p0160_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0160_sy1p0160_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0180_sy1p0180_rot0p0.stl,20mm Calibration Cube.stl,1.018,1.018,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0180_sy1p0180_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0180_sy1p0180_rot0p0.stderr.txt
+coarse_20mm Calibration Cube_sx1p0200_sy1p0200_rot0p0.stl,20mm Calibration Cube.stl,1.02,1.02,0.0,,,,,FAIL,"returncode=1
+--- STDOUT tail ---
+
+--- STDERR tail ---
+Traceback (most recent call last):
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 636, in <module>
+    main()
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 435, in main
+    stl = pick_stl()
+          ^^^^^^^^^^
+  File ""C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\gemini.py"", line 34, in pick_stl
+    print(""\n--- \U0001f4c2 STL Listesi ---"")
+  File ""C:\Users\MONSTER\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1254.py"", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c2' in position 6: character maps to <undefined>",C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0200_sy1p0200_rot0p0.stdout.txt,C:\Users\MONSTER\OneDrive - İstanbul Medeniyet Üniversitesi\Masaüstü\superslicer\search_runs\seed_run_20260422_225356\coarse_20mm Calibration Cube_sx1p0200_sy1p0200_rot0p0.stderr.txt
